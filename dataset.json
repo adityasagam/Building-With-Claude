@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Parse an AWS S3 bucket name and region from a given S3 URI (e.g., s3://my-bucket/path/to/file) and return them as separate values",
+    "format": "python"
+  },
+  {
+    "task": "Create a JSON configuration object for an AWS Lambda function that specifies the function name, runtime (Python 3.11), timeout (30 seconds), and memory (256 MB)",
+    "format": "json"
+  },
+  {
+    "task": "Write a regex pattern to match and validate AWS IAM role ARNs in the format arn:aws:iam::123456789012:role/RoleName",
+    "format": "regex"
+  }
+]
