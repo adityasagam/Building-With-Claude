@@ -1,0 +1,51 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "85 kg",
+      "goal": "Strength training and muscle recovery for weightlifting",
+      "restrictions": "Vegetarian"
+    },
+    "solution_criteria": [
+      "Meal plan covers one full day with at least 4 meals/snacks",
+      "Protein distributed across meals (minimum 25g per meal) totaling 130-150g daily",
+      "All foods comply with vegetarian restrictions",
+      "Includes recovery-focused nutrition post-workout (carbs + protein)",
+      "Compact format with clear meal times and portions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength-focused athlete (weightlifter) emphasizing protein distribution across meals and recovery nutrition, with dietary restrictions (vegetarian or vegan)"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "72 kg",
+      "goal": "Marathon training with carbohydrate loading for an upcoming race, requiring 3,500+ calories daily with optimized pre/during/post-workout nutrition timing",
+      "restrictions": "Vegetarian, no nuts"
+    },
+    "solution_criteria": [
+      "Meal plan covers full day with breakfast, lunch, dinner, and snacks",
+      "Total daily calories meet high endurance athlete requirements (3,500+)",
+      "Includes specific pre-workout, during-workout, and post-workout nutrition with timing",
+      "All meals respect vegetarian and nut-free restrictions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a professional endurance athlete (marathon runner) requiring high caloric intake and carbohydrate loading, with specific timing for pre/during/post-workout nutrition"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "75 kg",
+      "goal": "Optimize performance and recovery for soccer training and match play",
+      "restrictions": "Vegetarian, no nuts"
+    },
+    "solution_criteria": [
+      "Includes 4-5 meals/snacks strategically timed around training sessions with pre- and post-exercise nutrition",
+      "Provides balanced macronutrients (carbohydrates for energy, protein for recovery, healthy fats) appropriate for a 75kg athlete",
+      "Contains practical, accessible food options that don't require extensive preparation",
+      "Includes hydration guidelines with specific fluid recommendations"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport-specific athlete (soccer player) needing balanced macronutrients with practical meal timing around training sessions, including hydration guidelines and accessible food options"
+  }
+]
